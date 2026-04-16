@@ -1,5 +1,5 @@
 -- LAB 5: JOIN & SUBQUERY
--- Sinh vien: Nghia
+-- Sinh vien: Ph65119
 -- Mon: ITA104
 
 -- BAI 1.1 INNER JOIN
